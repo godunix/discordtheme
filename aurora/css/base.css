@@ -197,7 +197,7 @@ body::before {
 /*2.a. Main Titlebar*/
 .wordmark-2iDDfm path {display:none;}
 .wordmark-2iDDfm:after {
-	content:'Test';
+	content:'';
 	position: absolute !important;
 	left: 5px;
 	width: 100vw;
